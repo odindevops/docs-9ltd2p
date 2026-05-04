@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-e51poy.binetic.ai/sitemap.xml
